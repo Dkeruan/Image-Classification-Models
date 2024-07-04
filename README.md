@@ -31,7 +31,7 @@ The third project is focused on classifying three main types of clouds using gro
 
 ## [Project 2: Huskies vs. Malamutes](is-it-a-husky-or-malamute.ipynb)
 
-<img src="images/dog.jpg" alt="Huskies vs. Malamutes" width="600" height="300">
+<img src="images/dog.jpg" alt="Huskies vs. Malamutes" width="500" height="400">
 
 ### Overview
 The second project involves creating a classifier that differentiates between Huskies and Malamutes. These two breeds of dogs are visually similar, making it a challenging and interesting classification problem.
