@@ -15,9 +15,9 @@ The fourth project is a multi-label classification model that recognizes multipl
 - **Performance Metrics**: I learned about evaluation metrics specific to multi-label classification, such as Hamming loss and the subset accuracy metric.
 - **Application Deployment**: I deployed the model and created an interactive demo. <https://huggingface.co/spaces/Dkeruan/multi-labeling>
 
-## Project 3: Ground-Based Cloud Classification
+## [Project 3: Ground-Based Cloud Classification](cloud_type_classification.ipynb)
 
-![Ground-Based Cloud Classification](images/cloud.jpg)
+![Ground-Based Cloud Classification](images/clouds.jpg)
 
 ### Overview
 The third project is focused on classifying three main types of clouds using ground-based cloud photos. This project is particularly relevant for meteorological studies and weather prediction.
@@ -29,7 +29,7 @@ The third project is focused on classifying three main types of clouds using gro
 - **Model Evaluation**: I practiced evaluating multi-class classifiers using confusion matrices and class-wise performance metrics.
 - **Web App Deployment**: I learned to transform code into a script and deploy the script into an interactive web application for users.
 
-## Project 2: Huskies vs. Malamutes
+## [Project 2: Huskies vs. Malamutes](is-it-a-husky-or-malamute.ipynb)
 
 ![Huskies vs. Malamutes](images/dog.jpg)
 
@@ -41,7 +41,7 @@ The second project involves creating a classifier that differentiates between Hu
 - **Model Optimization**: I learned about hyperparameter tuning and experimented with different optimization techniques to improve model accuracy.
 - **Visualization**: I utilized visualization tools to interpret and visualize the regions of images that the model considered important for making predictions.
 
-## Project 1: Clean Street vs. Streets with Potholes
+## [Project 1: Clean Street vs. Streets with Potholes](is-it-a-pothole.ipynb)
 
 ![Clean Street vs. Streets with Potholes](images/potholes.jpg)
 
