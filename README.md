@@ -4,7 +4,7 @@ Welcome to my Image Recognition Projects repository! Here, you will find a colle
 
 ## ## [Project 4: Multi-Label Photo Classification](multi-label-classification.ipynb)
 
-<img src="images/multi_label.jpg" alt="Multi-Label Photo Classification" width="600" height="300">
+<img src="images/multi_label.jpg" alt="Multi-Label Photo Classification">
 
 ### Overview
 The fourth project is a multi-label classification model that recognizes multiple labels in photos. This project demonstrates the ability to handle images that belong to more than one category simultaneously.
