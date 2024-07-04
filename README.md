@@ -2,7 +2,9 @@
 
 Welcome to my Image Recognition Projects repository! Here, you will find a collection of machine learning models I have developed as part of my self-study in image recognition and classification. Each project showcases different aspects of image classification using transfer learning on convolutional neural networks, and through these projects, I have gained valuable insights and skills in machine learning.
 
-## Project 4: Multi-Label Photo Classification
+## ## [Project 4: Multi-Label Photo Classification](multi-label-classification.ipynb)
+
+![Multi-Label Photo Classification](images/macdougal_street.jpg)
 
 ### Overview
 The fourth project is a multi-label classification model that recognizes multiple labels in photos. This project demonstrates the ability to handle images that belong to more than one category simultaneously.
@@ -14,6 +16,8 @@ The fourth project is a multi-label classification model that recognizes multipl
 - **Application Deployment**: I deployed the model and created an interactive demo. <https://huggingface.co/spaces/Dkeruan/multi-labeling>
 
 ## Project 3: Ground-Based Cloud Classification
+
+![Ground-Based Cloud Classification](images/cloud.jpg)
 
 ### Overview
 The third project is focused on classifying three main types of clouds using ground-based cloud photos. This project is particularly relevant for meteorological studies and weather prediction.
@@ -27,6 +31,8 @@ The third project is focused on classifying three main types of clouds using gro
 
 ## Project 2: Huskies vs. Malamutes
 
+![Huskies vs. Malamutes](images/dog.jpg)
+
 ### Overview
 The second project involves creating a classifier that differentiates between Huskies and Malamutes. These two breeds of dogs are visually similar, making it a challenging and interesting classification problem.
 
@@ -36,6 +42,8 @@ The second project involves creating a classifier that differentiates between Hu
 - **Visualization**: I utilized visualization tools to interpret and visualize the regions of images that the model considered important for making predictions.
 
 ## Project 1: Clean Street vs. Streets with Potholes
+
+![Clean Street vs. Streets with Potholes](images/potholes.jpg)
 
 ### Overview
 The first project in this repository is a binary classifier that distinguishes between images of clean streets and streets with potholes. This project aims to demonstrate how machine learning can be used to identify and classify road conditions, which can be useful for urban planning and maintenance.
