@@ -11,7 +11,7 @@ The fourth project is a multi-label classification model that recognizes multipl
 - **Multi-Label Classification**: I explored the challenges and techniques involved in building multi-label classifiers, such as handling overlapping labels and ensuring proper loss calculation.
 - **Data Augmentation**: I used data augmentation techniques and hyperparameter tuning to increase the diversity of the training set and improve model robustness.
 - **Performance Metrics**: I learned about evaluation metrics specific to multi-label classification, such as Hamming loss and the subset accuracy metric.
-- **Application Deployment**: I deployed the model and created an interactive demo.
+- **Application Deployment**: I deployed the model and created an interactive demo. <https://huggingface.co/spaces/Dkeruan/multi-labeling>
 
 ## Project 3: Ground-Based Cloud Classification
 
