@@ -4,7 +4,7 @@ Welcome to my Image Recognition Projects repository! Here, you will find a colle
 
 ## ## [Project 4: Multi-Label Photo Classification](multi-label-classification.ipynb)
 
-<img src="images/macdougal_street.jpg" alt="Multi-Label Photo Classification" width="500" height="300">
+<img src="images/macdougal_street.jpg" alt="Multi-Label Photo Classification" width="600" height="300">
 
 ### Overview
 The fourth project is a multi-label classification model that recognizes multiple labels in photos. This project demonstrates the ability to handle images that belong to more than one category simultaneously.
@@ -17,7 +17,7 @@ The fourth project is a multi-label classification model that recognizes multipl
 
 ## [Project 3: Ground-Based Cloud Classification](cloud_type_classification.ipynb)
 
-![Ground-Based Cloud Classification](images/clouds.jpg)
+<img src="images/clouds.jpg" alt="Ground-Based Cloud Classification" width="600" height="300">
 
 ### Overview
 The third project is focused on classifying three main types of clouds using ground-based cloud photos. This project is particularly relevant for meteorological studies and weather prediction.
@@ -31,7 +31,7 @@ The third project is focused on classifying three main types of clouds using gro
 
 ## [Project 2: Huskies vs. Malamutes](is-it-a-husky-or-malamute.ipynb)
 
-![Huskies vs. Malamutes](images/dog.jpg)
+<img src="images/dog.jpg" alt="Huskies vs. Malamutes" width="600" height="300">
 
 ### Overview
 The second project involves creating a classifier that differentiates between Huskies and Malamutes. These two breeds of dogs are visually similar, making it a challenging and interesting classification problem.
@@ -43,7 +43,7 @@ The second project involves creating a classifier that differentiates between Hu
 
 ## [Project 1: Clean Street vs. Streets with Potholes](is-it-a-pothole.ipynb)
 
-![Clean Street vs. Streets with Potholes](images/potholes.jpg)
+<img src="images/potholes.jpg" alt="Clean Street vs. Streets with Potholes" width="600" height="300">
 
 ### Overview
 The first project in this repository is a binary classifier that distinguishes between images of clean streets and streets with potholes. This project aims to demonstrate how machine learning can be used to identify and classify road conditions, which can be useful for urban planning and maintenance.
