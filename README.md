@@ -2,7 +2,7 @@
 
 Welcome to my Image Recognition Projects repository! Here, you will find a collection of machine learning models I have developed as part of my self-study in image recognition and classification. Each project showcases different aspects of image classification using transfer learning on convolutional neural networks, and through these projects, I have gained valuable insights and skills in machine learning.
 
-## ## [Project 4: Multi-Label Photo Classification](multi-label-classification.ipynb)
+## [Project 4: Multi-Label Photo Classification](multi-label-classification.ipynb)
 
 <img src="images/multi_label.jpg" alt="Multi-Label Photo Classification">
 
